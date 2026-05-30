@@ -81,7 +81,7 @@ Developed as a collaborative B.Tech Major Project.
 Team Members:
 
 * Tanmay Sharma
-* Ansh
+* Ansh Verma
 
 ## Future Improvements
 
