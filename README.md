@@ -58,7 +58,7 @@ resilience-brain/
 * Memory Usage
 * Ready Pods
 * Total Pods
-* Pod Restart Count
+* Pod Restart Counts
 
 ## Failure Types Detected
 
